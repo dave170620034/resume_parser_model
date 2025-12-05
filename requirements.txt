@@ -1,0 +1,7 @@
+streamlit
+spacy
+pandas
+python-docx
+pdfplumber
+PyPDF2
+tqdm
